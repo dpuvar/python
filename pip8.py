@@ -1,7 +1,3 @@
-
-from ast import If
-
-
 class stack:
     def __init__(self):  # create the constructor
         self.arr = []
